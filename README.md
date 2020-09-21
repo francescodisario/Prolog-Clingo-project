@@ -11,6 +11,8 @@
 Per eseguire il codice è necessario avere almeno le sdk 1.8. 
 È allegato anche il codice sorgente da aprire con Intellij.
 
-#### Avvio del tool labirinto.jar
+#### Avvio ed esecuzione
+Per generare il labirinto.  
+
 
 ## 2. Progetto di Asp
