@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0cde074-ee49-4431-b602-491379abda35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dJPHDMdoxOocuS25QaKjm8kZYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/bin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tabella">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProgettoTabellone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ProgettoTabellone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\peppe\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tabella" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgettoTabellone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tabella.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tabella" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cde074-ee49-4431-b602-491379abda35" name="Default Changelist" comment="" />
+      <created>1592140133019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592140133019</updated>
+    </task>
+    <task id="LOCAL-00001" summary="numero modelli finito e filtro predicati lezione">
+      <created>1592211548211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592211548211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="numero modelli finito e filtro predicati lezione">
+      <created>1592214426891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592214426891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1592220119873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592220119873</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="numero modelli finito e filtro predicati lezione" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="79" width="980" height="549" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592152874587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="79" width="980" height="549" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592152874587" />
+    <state x="272" y="101" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592140731874" />
+    <state x="976" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592140978791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="976" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1592140978791" />
+    <state x="669" y="115" key="#tabella" timestamp="1592492751483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#tabella/0.0.1920.1040@0.0.1920.1040" timestamp="1592492751483" />
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1592220118692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592220118692" />
+    <state x="827" y="275" key="EnvironmentVariablesDialog" timestamp="1592492747692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="275" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592492747692" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1592152621917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592152621917" />
+    <state width="1899" height="356" key="GridCell.Tab.0.bottom" timestamp="1600675330726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="609" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592231035015" />
+    <state width="1659" height="230" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592152061805" />
+    <state width="1899" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600675330726" />
+    <state width="1899" height="356" key="GridCell.Tab.0.center" timestamp="1600675330726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="609" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592231035015" />
+    <state width="1659" height="230" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592152061804" />
+    <state width="1899" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600675330726" />
+    <state width="1899" height="356" key="GridCell.Tab.0.left" timestamp="1600675330726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="609" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592231035015" />
+    <state width="1659" height="230" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592152061803" />
+    <state width="1899" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600675330726" />
+    <state width="1899" height="356" key="GridCell.Tab.0.right" timestamp="1600675330726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="609" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592231035015" />
+    <state width="1659" height="230" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592152061805" />
+    <state width="1899" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600675330726" />
+    <state x="50" y="98" width="981" height="707" key="SettingsEditor" timestamp="1592492817275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="40" y="78" width="981" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592214660050" />
+    <state x="50" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592492817275" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592220122392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592220122392" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600608581010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600608581010" />
+    <state x="498" y="160" width="683" height="729" key="find.popup" timestamp="1592152206972">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="160" width="683" height="729" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592152206972" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592166855232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592166855232" />
+  </component>
+</project>

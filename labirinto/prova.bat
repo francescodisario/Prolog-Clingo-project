@@ -1,0 +1,1 @@
+swipl -s esegui.pl -g esegui(S) -t halt
