@@ -7,6 +7,7 @@
   * Azioni: contenente le azioni dell'agente;
   * dominio: contenente i labirinti;
   * java: contenente un tool in javaFx per la creazione di labirinti e l'esecuzione di A*.
+ ***
 ### Editor di Labirinti (labirinto.jar)
 Per eseguire il codice è necessario avere almeno le sdk 1.8. 
 È allegato anche il codice sorgente da aprire con Intellij.
