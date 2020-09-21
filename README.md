@@ -1,6 +1,6 @@
 # Prolog-Clingo-project
 
-## 1. Progetto di Prolog (Labirinto)
+# 1. Progetto di Prolog (Labirinto)
   Il progetto di prolog è così strutturato:
   * Algoritmi: contenente gli algoritmi Iterative Deepening, Ida*, A*, BFS, DFS, e Ricerca a profondità limitata;
   * Euristiche: contenente le euristiche utilizzate per gli algoritmi informati;
