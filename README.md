@@ -28,4 +28,4 @@ Per funzionare, il file jar deve essere nella stessa cartella dei seguenti file:
 È possibile sostituire il file euristica.pl e prova.pl con altri file, in modo da provare con altre eurisitiche/strategie. L'importante è mantenere lo stesso filename. 
 
 ## Progetto di Asp (Calendario)
-todo
+Todo
